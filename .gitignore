@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# OS/Editor junk
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node/Next 基本
+node_modules/
+.next/
+out/
+dist/
+*.log
+.env*
+.vercel/
+.cache/
